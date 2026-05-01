@@ -1,0 +1,16 @@
+--- Stack-Based Move Tracker ---
+1. Record Move  2. Undo  3. Redo  4. Show Status  5. Exit
+Selection: 1
+Enter Player ID, Action (e.g., Place), and Position (e.g., A1): 1 place 1
+Recorded: [Player 1: place at 1]
+1. Record Move  2. Undo  3. Redo  4. Show Status  5. Exit
+Selection: 1
+Enter Player ID, Action (e.g., Place), and Position (e.g., A1): 2 place 3
+Recorded: [Player 2: place at 3]
+1. Record Move  2. Undo  3. Redo  4. Show Status  5. Exit
+Selection: 4
+
+--- Current Game State ---
+Last move: [Player 2: place at 3]
+Total moves in history: 2
+--------------------------
